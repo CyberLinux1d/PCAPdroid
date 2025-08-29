@@ -1,45 +1,45 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://a.top4top.io/p_352831nwt0.png" alt="PCAPdroid Banner" width="600"/>
+  <img src="https://h.top4top.io/p_3528lwi850.png" alt="PCAPdroid Banner" width="600"/>
 </p>
 
 ---
 
-### <i class="fas fa-network-wired"></i> PCAPdroid: Monitor Jaringan Android Tanpa Root
+### <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/network-wired.svg" width="20" style="color:black"/> PCAPdroid: Monitor Jaringan Android Tanpa Root
 
 [PCAPdroid](https://f-droid.org/packages/com.emanuelef.remote_capture/) adalah aplikasi **gratis & open-source** untuk Android yang memungkinkanmu memantau lalu lintas jaringan tanpa akses root. Cocok untuk keamanan, debugging, atau analisis jaringan.  
 
 ---
 
-#### <i class="fas fa-book-open"></i> Fitur Utama
+#### <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/book-open.svg" width="20" style="color:black"/> Fitur Utama
 
 <details>
-<summary><i class="fas fa-mobile-alt"></i> Pemantauan Jaringan</summary>
+<summary><img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/mobile-alt.svg" width="20" style="color:black"/> Pemantauan Jaringan</summary>
 👉 Melacak koneksi aplikasi dan sistem secara real-time.  
 📌 Fungsi: Memantau aktivitas jaringan dan mendeteksi anomali.
 </details>
 
 <details>
-<summary><i class="fas fa-file-export"></i> Ekspor Data PCAP</summary>
+<summary><img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/file-export.svg" width="20" style="color:black"/> Ekspor Data PCAP</summary>
 👉 Mengekspor file PCAP untuk analisis lebih lanjut di Wireshark.  
 📌 Fungsi: Analisis lalu lintas jaringan secara profesional.
 </details>
 
 <details>
-<summary><i class="fas fa-lock"></i> Dekripsi HTTPS/TLS</summary>
+<summary><img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/lock.svg" width="20" style="color:black"/> Dekripsi HTTPS/TLS</summary>
 👉 Mendukung dekripsi lalu lintas HTTPS menggunakan SSLKEYLOGFILE.  
 📌 Fungsi: Mempelajari konten data terenkripsi untuk debugging & analisis.
 </details>
 
 <details>
-<summary><i class="fas fa-globe"></i> Informasi Server Jarak Jauh</summary>
+<summary><img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/globe.svg" width="20" style="color:black"/> Informasi Server Jarak Jauh</summary>
 👉 Menampilkan negara, ASN, dan info server lain secara offline.  
 📌 Fungsi: Mengidentifikasi lokasi & pemilik server.
 </details>
 
 ---
 
-#### <i class="fas fa-phone"></i> Contact / Info
+#### <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/phone.svg" width="20" style="color:black"/> Contact / Info
 
 <p align="center">
   <a href="https://f-droid.org/packages/com.emanuelef.remote_capture/">
