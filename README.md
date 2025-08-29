@@ -39,13 +39,19 @@
 
 ---
 
-#### <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/phone.svg" width="20" style="color:black"/> Contact / Info
+#### <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/phone.svg" width="20"/> Contact
 
 <p align="center">
-  <a href="https://f-droid.org/packages/com.emanuelef.remote_capture/">
-    <img src="https://img.shields.io/badge/Download-F-Droid-black?style=for-the-badge&logo=f-droid&logoColor=white" />
+  <a href="https://t.me/viaownercyberlinuxid">
+    <img src="https://img.shields.io/badge/Owner-@viaownercyberlinuxid-black?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://github.com/emangele/pcapdroid">
-    <img src="https://img.shields.io/badge/GitHub-PCAPdroid-black?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://t.me/CyberLinuxID">
+    <img src="https://img.shields.io/badge/Grup-CyberLinuxID-black?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://github.com/CyberLinux1d">
+    <img src="https://img.shields.io/badge/GitHub-CyberLinux1d-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://9o1kc.mssg.me/">
+    <img src="https://img.shields.io/badge/Link-Lengkap-black?style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
 </p>
