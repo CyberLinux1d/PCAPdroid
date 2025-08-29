@@ -7,7 +7,13 @@
 
 ### <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/network-wired.svg" width="20" style="color:black"/> PCAPdroid: Monitor Jaringan Android Tanpa Root
 
-[PCAPdroid](https://f-droid.org/packages/com.emanuelef.remote_capture/) adalah aplikasi **gratis & open-source** untuk Android yang memungkinkanmu memantau lalu lintas jaringan tanpa akses root. Cocok untuk keamanan, debugging, atau analisis jaringan.  
+[PCAPdroid](https://f-droid.org/packages/com.emanuelef.remote_capture/) adalah aplikasi **gratis & open-source** untuk Android yang memungkinkanmu memantau lalu lintas jaringan tanpa akses root. Cocok untuk keamanan, debugging, atau analisis jaringan.
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/solid/star.svg" width="20" style="color:black"/>  
+  Jika kalian suka, jangan lupa klik <b>bintang</b> di GitHub kami!  
+  <a href="https://github.com/CyberLinux1d">👉 GitHub Repo</a>
+</p>
 
 ---
 
